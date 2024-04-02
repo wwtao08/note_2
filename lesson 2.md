@@ -17,8 +17,11 @@ terminal 中输入环境配置命令
    - 完成 浦语·灵笔2 的 图文创作 及 视觉问答 部署（需截图） 
 ![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%876.png)
 ![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%877.png)
-![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%878.png)
 ![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%879.png)
-![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%880.png)    
+![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%880.png)
+![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%881.png)
+![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%882.png)    
 3. **进阶作业3**：  
    - 完成 Lagent 工具调用 数据分析 Demo 部署（需截图） 
+![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%883.png)
+![image](https://github.com/wwtao08/note_2/blob/main/%E5%9B%BE%E7%89%884.png) 
