@@ -65,12 +65,7 @@ python /root/demo/InternLM-XComposer/examples/gradio_demo_composition.py  \
 ```
 
 待程序运行的同时，参考章节 3.3 部分对端口环境配置本地 `PowerShell` 。使用快捷键组合 `Windows + R`（Windows 即开始菜单键）打开指令界面，（Mac 用户打开终端即可）并输入命令，按下回车键：
-
-![alt text](images/img-8.png)
-
 打开 PowerShell 后，先查询端口，再根据端口键入命令 （例如图中端口示例为 38374）：
-
-![alt text](images/img-A.png)
 
 ```bash
 # 从本地使用 ssh 连接 studio 端口
@@ -120,8 +115,6 @@ ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-7b /root/mode
 
 打开 `lagent` 路径下 `examples/internlm2_agent_web_demo_hf.py` 文件，并修改对应位置 (71行左右) 代码：
 
-![alt text](images/img-H.png)
-
 ```bash
 # 其他代码...
 value='/root/models/internlm2-chat-7b'
@@ -136,11 +129,9 @@ streamlit run /root/demo/lagent/examples/internlm2_agent_web_demo_hf.py --server
 
 待程序运行的同时，对本地端口环境配置本地 `PowerShell` 。使用快捷键组合 `Windows + R`（Windows 即开始菜单键）打开指令界面，并输入命令，按下回车键。（Mac 用户打开终端即可）
 
-![alt text](images/img-8.png)
 
 打开 PowerShell 后，先查询端口，再根据端口键入命令 （例如图中端口示例为 38374）：
 
-![alt text](images/img-A.png)
 
 ```bash
 # 从本地使用 ssh 连接 studio 端口
